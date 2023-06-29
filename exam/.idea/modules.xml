@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/exam-core/exam-core.iml" filepath="$PROJECT_DIR$/exam-core/exam-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam-home/exam-home.iml" filepath="$PROJECT_DIR$/exam-home/exam-home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exam-report/exam-report.iml" filepath="$PROJECT_DIR$/exam-report/exam-report.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sys-base/sys-base.iml" filepath="$PROJECT_DIR$/sys-base/sys-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sys-cache/sys-cache.iml" filepath="$PROJECT_DIR$/sys-cache/sys-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sys-core/sys-core.iml" filepath="$PROJECT_DIR$/sys-core/sys-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sys-ex/sys-ex.iml" filepath="$PROJECT_DIR$/sys-ex/sys-ex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sys-file/sys-file.iml" filepath="$PROJECT_DIR$/sys-file/sys-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sys-log/sys-log.iml" filepath="$PROJECT_DIR$/sys-log/sys-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sys-parent.iml" filepath="$PROJECT_DIR$/sys-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sys-quartz/sys-quartz.iml" filepath="$PROJECT_DIR$/sys-quartz/sys-quartz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sys-tag/sys-tag.iml" filepath="$PROJECT_DIR$/sys-tag/sys-tag.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sys-web/sys-web.iml" filepath="$PROJECT_DIR$/sys-web/sys-web.iml" />
+    </modules>
+  </component>
+</project>

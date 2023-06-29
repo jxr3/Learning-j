@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sys-core" />
+        <module name="sys-cache" />
+        <module name="sys-quartz" />
+        <module name="sys-web" />
+        <module name="sys-log" />
+        <module name="sys-ex" />
+        <module name="exam-report" />
+        <module name="exam-home" />
+        <module name="sys-tag" />
+        <module name="sys-file" />
+        <module name="sys-base" />
+        <module name="exam-core" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="exam-core" target="1.8" />
+      <module name="exam-home" target="1.8" />
+      <module name="exam-report" target="1.8" />
+      <module name="sys-base" target="1.8" />
+      <module name="sys-cache" target="1.8" />
+      <module name="sys-core" target="1.8" />
+      <module name="sys-ex" target="1.8" />
+      <module name="sys-file" target="1.8" />
+      <module name="sys-log" target="1.8" />
+      <module name="sys-parent" target="1.8" />
+      <module name="sys-quartz" target="1.8" />
+      <module name="sys-tag" target="1.8" />
+      <module name="sys-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="exam-core" options="-parameters" />
+      <module name="exam-home" options="-parameters" />
+      <module name="exam-report" options="-parameters" />
+      <module name="sys-base" options="-parameters" />
+      <module name="sys-cache" options="-parameters" />
+      <module name="sys-core" options="-parameters" />
+      <module name="sys-ex" options="-parameters" />
+      <module name="sys-file" options="-parameters" />
+      <module name="sys-log" options="-parameters" />
+      <module name="sys-quartz" options="-parameters" />
+      <module name="sys-tag" options="-parameters" />
+      <module name="sys-web" options="-parameters" />
+    </option>
+  </component>
+</project>
